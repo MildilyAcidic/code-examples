@@ -1,5 +1,5 @@
 --!strict
-
+--@mildilyacidic, dawnwaIkerr https://www.roblox.com/users/35730292/profile
 --[[ 
 status/modifier system based of Valve's "Deadlock"  https://store.steampowered.com/app/1422450/Deadlock/?curator_clanid=4777282 
 
